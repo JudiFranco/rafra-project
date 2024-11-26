@@ -1,0 +1,146 @@
+header{
+    background-color: rgb(218, 169, 45);
+}
+.zavamisy{
+    position: relative;
+    left: 10cm;
+    right: 10cm;
+    font-family: Verdana, Tahoma, sans-serif;
+    padding: 0.7cm 0 0.7cm 0;
+}
+.zavamisy a{
+    color: black;
+    text-decoration: none;
+    margin: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13px;
+    font-weight: 550;
+}
+.zavamisy a:hover{
+    color: white;
+}
+#logo{
+    height: auto;
+    width: 2cm;
+    position: relative;
+    bottom: 69px;
+    left: 790px;
+    border: 2px solid green;
+    border-radius: 100%;
+}
+#titre{
+    position: relative;
+    left: 10.5cm;
+}
+.tongasoa{
+    background-color: rgb(228, 199, 127);
+    position: relative;
+    bottom: 12px;
+    top: 0.5cm;
+    padding: 0.1cm 0 0.1cm 0;
+    margin: 0 0.5cm 0 0.5cm;
+}
+.akoraby{
+    position: relative;
+    right: 17cm;
+    top: 2cm;
+}
+#Saryvohipeno{
+    height: 2.5cm;
+    width: 2.5cm;
+    border: 1px solid gray;
+    position: relative;
+    left: 17.5cm;
+
+}
+.sms{
+    float: right;
+    position: relative;
+    right: 4cm;
+    bottom: 0.4cm;
+}
+.photofa{
+    position: relative;
+    left: 15cm;
+    right: 8cm;
+    top: 4cm;
+}
+.photofa img{
+    height: 7cm;
+    width: auto;
+    border: 2px solid yellow;
+    border-radius: 10px;
+}
+.photofa img:hover{
+    border: 2px solid brown;
+}
+#frc{
+    position: relative;
+    right: 12cm;
+}
+#met{
+    position: relative;
+    right: 8cm;
+}
+#vok{
+    position: relative;
+    right: 4cm;
+}
+.contact{
+    text-align: center;
+}
+.contact img{
+    height: 1cm;
+    width: auto;
+    position: relative;
+    top: 0.3cm;
+    border-radius: 100%;
+    border: 2px solid white;
+}
+.contact img:hover{
+    border: 2px solid black;
+}
+#g{
+    float: left;
+    position: relative;
+    left: 6.5cm;
+}
+#m{
+    position: relative;
+    right: 2.5cm;
+}
+#d{
+    float: right;
+    position: relative;
+    bottom: 2.7cm;
+    right: 8cm;
+}
+#gmail{
+    position: relative;
+    left: 0.5cm;
+}
+#tel{
+    position: relative;
+    top: 0.2cm;
+}
+h4{
+    font-size: 14px;
+}
+footer{
+    background-color: rgb(223, 173, 49);
+    position: relative;
+    top: 6.5cm;
+}
+#retour{
+    height: 1.5cm;
+    width: auto;
+    position: relative;
+    top: 6cm;
+    left: 16.5cm;
+    border: 2px solid white;
+    background-color: rgb(78, 78, 255);
+}
+#retour:hover{
+    border: 2px solid blue;
+    background-color: rgb(78, 78, 255);
+}
